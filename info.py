@@ -118,7 +118,7 @@ else:
 REPO_OWNER = "LazyDeveloperr"
 
 # Auto Delete For Group Message (Self Delete) #
-SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 360 ;,00))
+SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 360))
 SELF_DELETE = environ.get('SELF_DELETE', False)
 if SELF_DELETE == "True":
     SELF_DELETE = True
