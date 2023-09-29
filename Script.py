@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
+Myself <a href=https://t.me/MoviesCheckpointBot></a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     LZTHMB_TEXT = """Hello {},
 ✔️Glad to see you here. It seems that you really love <a href=https://t.me/PirateGamers>PirateGamers's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/Technical_Bots>Dev Channel</a> and stay tuned for next <a href=https://www.youtube.com/@MoviesCheckpoints>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Bugss_Support_Bot>Movies_Checkpoint_Group Support</a>
     """
