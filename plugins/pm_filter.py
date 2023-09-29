@@ -806,7 +806,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -833,7 +833,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -860,7 +860,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -887,7 +887,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -914,7 +914,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -941,7 +941,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
@@ -968,7 +968,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"💛 Request More 💛", url=f"https://t.me/Movies_Checkpoint_Group}")
+                InlineKeyboardButton(text=f"💛 Request More 💛", url=f"https://t.me/Movies_Checkpoint_Group")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT BUG 🐞", url=f"http://t.me/Bugss_Support_Bot")
             ],[
