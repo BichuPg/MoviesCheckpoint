@@ -74,7 +74,7 @@ LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','MoviesCheckpoints')  # WITHOUT @ 
 MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "Movies_Checkpoint_Group") #[ without @ ]
 
 # Url Shortner
-URL_MODE = is_enabled((environ.get("URL_MODE","True")), False)
+URL_MODE = is_enabled((environ.get("URL_MODE","True")), True)
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'ziplinker.net') #Always use website url from api section 
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '5b343a256452228dae2eb40201f9e8a64583357f')
 LZURL_PRIME_USERS = [int(lazyurlers) if id_pattern.search(lazyurlers) else lazyurlers for lazyurlers in environ.get('LZURL_PRIME_USERS', '5965340120').split()]
